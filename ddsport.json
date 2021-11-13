@@ -47,21 +47,6 @@
 
     "FACEBOOKADSFIRST":"false",
   
-
-	
-
-    
-    
-
-
-	
-
-
-	
-
-	
-
-
 	
 
 
@@ -69,7 +54,18 @@
 	"moreappsgrid":[
 					
 			
-					
+			{
+						"picture":"https://play-lh.googleusercontent.com/eXoxdwcMR_qX5RNLIB4c5ydZ9hn_3wrHlYN4XJEHyRJMO172BMWyHLx2MtcZdKUJiDQ=s360-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.straspo.Krik",
+						"name":"OREO CRICKET TV",
+						"type":"install"
+					},
+					{
+						"picture":"https://play-lh.googleusercontent.com/ZUwPbvNBZKPRqfrYHjRmEK_LWk2eNMUo3x-n_3BoRP51OLMg6i5T7bG8SWT9UVPkWzk=s360-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.sporthot.strmalin",
+						"name":"HOT STAR",
+						"type":"install"
+					}		
 					
 					
 				
