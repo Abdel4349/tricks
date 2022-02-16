@@ -1,5 +1,5 @@
 {
-"version": "0",
+"version": "1",
 
 	
 	"ironKey": "0000000",
@@ -7,9 +7,9 @@
 	"ironinter": "0000000",
 	"ironreward": "0000000",
 
-	"admobBanner": "ca-ap-pub-3940256099942544/6300978111",
-	"admobInter": "ca-ap-pub-3940256099942544/1033173712",
-	"admobReward": "ca-ap-pub-3940256099942544/5224354917",
+	"admobBanner": "ca-app-pub-3940256099942544/6300978111",
+	"admobInter": "ca-app-pub-3940256099942544/1033173712",
+	"admobReward": "ca-app-pub-3940256099942544/5224354917",
 	
 	"applovinsdk": "3940256099942544/5224354917",
 	"applovinbanner": "3940256099942544/5224354917",
