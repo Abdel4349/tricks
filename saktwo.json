@@ -38,8 +38,8 @@
 
 	"INTER_INTERVAL":4,
 
-"BVISIBLE":"false",
-"MORETIPSLINK":"https://play.google.com/store/apps",
+"BVISIBLE":"truee",
+"MORETIPSLINK":"https://play.google.com/store/apps/details?id=com.saksaks.soolsim",
 
 
     "NATIVESWITCHBANNER":"true",
@@ -51,7 +51,25 @@
 	"moreappsgrid":[
 	
 			
+					{
+						"picture":"https://play-lh.googleusercontent.com/CX0-tAshhCz_KzFp4nhOBCgugA4w-GF16C4dTv-cMC0xgAFVi3OwLeP4_uhB1qyldg=s360-rw",
+						"link":"https://play.google.com/store/apps/details?id=net.wormobatt.snakzon",
+						"name":"BIG WORMS",
+						"type":"install"
+					},
+					{
+						"picture":"https://play-lh.googleusercontent.com/nmqODT4Kpuv6er8p7hjNENAUSu4rNQSywSZfrcExfHEsEllEqs1sW_aDOj2AAdPbppIm=s360-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.imposthero.supers",
+						"name":"64 GAMES in 1 App",
+						"type":"install"
+					},
 					
+					{
+						"picture":"https://play-lh.googleusercontent.com/eSAJ56MCGf3-5-8ZUPtqjuZl9S4mPKdQWXfSJr90UBiv0yyRzC1gBDUeNlgvbf5b_lM=s360-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.pupps.adventure.patro",
+						"name":"Paw Patrol Dash",
+						"type":"install"
+					}
 					
 					
 					
