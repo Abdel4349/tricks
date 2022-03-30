@@ -1,32 +1,37 @@
+
+
 {
-
-"admob_banner1":"ca-app-pub-6471719986007621/3689773897",
-  "admob_banner2":"ca-app-pub-6471719986007621/3689773897",
-  "admob_banner3":"ca-app-pub-6471719986007621/3689773897",
-  
-  
-"admob_inter1":"ca-app-pub-6471719986007621/6416009586",
-  "admob_inter2":"ca-app-pub-6471719986007621/6416009586",
-  "admob_inter3":"ca-app-pub-6471719986007621/6416009586",
-  
-"admob_native1":"ca-ap-pub-9261224675100252/2187741808",
-  "admob_native2":"ca-ap-pub-9261224675100252/2187741808",
-  "admob_native3":"ca-ap-pub-9261224675100252/2187741808",
-  
-  "fb_banner1":"ca-app-pub-6471719986007621/3689773897",
-  "fb_banner2":"ca-app-pub-6471719986007621/3689773897",
-  "fb_banner3":"ca-app-pub-6471719986007621/3689773897",
-  
-  
-"fb_inter1":"ca-app-pub-6471719986007621/6416009586",
-"fb_inter2":"ca-app-pub-6471719986007621/6416009586",
-"fb_inter3":"ca-app-pub-6471719986007621/6416009586",
-  
-"fb_native1":"ca-ap-pub-9261224675100252/2187741808",
-"fb_native2":"ca-ap-pub-9261224675100252/2187741808",
-"fb_native3":"ca-ap-pub-9261224675100252/2187741808",
-  
-  
-
-"enable_admob":true
+  "ads": [
+    {
+      "ad_app_id": "ca-app-pub-3940256099942544~3347511713",
+      
+      
+      "ad_banner_id1": "ca-app-pub-3940256099942544/6300978111",
+      "ad_banner_id2": "ca-app-pub-3940256099942544/6300978111",
+      "ad_banner_id3": "ca-app-pub-3940256099942544/6300978111",
+      
+      "ad_interstitial_id1": "ca-app-pub-3940256099942544/1033173712",
+      "ad_interstitial_id2": "ca-app-pub-3940256099942544/1033173712",
+      "ad_interstitial_id3": "ca-app-pub-3940256099942544/1033173712",
+      
+      
+      "ad_native_id1": "ca-app-pub-3940256099942544/2247696110",
+      "ad_native_id2": "ca-app-pub-3940256099942544/2247696110",
+      "ad_native_id3": "ca-app-pub-3940256099942544/2247696110",
+      
+      
+      "fb_banner_id1": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "fb_banner_id2": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "fb_banner_id3": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      
+      
+      "fb_interstitial_id1": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "fb_interstitial_id2": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "fb_interstitial_id3": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      
+      "fb_native_id1": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "fb_native_id2": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "fb_native_id3": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+    }
+  ]
 }
