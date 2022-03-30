@@ -1,0 +1,32 @@
+{
+
+"admob_banner1":"ca-app-pub-6471719986007621/3689773897",
+  "admob_banner2":"ca-app-pub-6471719986007621/3689773897",
+  "admob_banner3":"ca-app-pub-6471719986007621/3689773897",
+  
+  
+"admob_inter1":"ca-app-pub-6471719986007621/6416009586",
+  "admob_inter2":"ca-app-pub-6471719986007621/6416009586",
+  "admob_inter3":"ca-app-pub-6471719986007621/6416009586",
+  
+"admob_native1":"ca-ap-pub-9261224675100252/2187741808",
+  "admob_native2":"ca-ap-pub-9261224675100252/2187741808",
+  "admob_native3":"ca-ap-pub-9261224675100252/2187741808",
+  
+  "fb_banner1":"ca-app-pub-6471719986007621/3689773897",
+  "fb_banner2":"ca-app-pub-6471719986007621/3689773897",
+  "fb_banner3":"ca-app-pub-6471719986007621/3689773897",
+  
+  
+"fb_inter1":"ca-app-pub-6471719986007621/6416009586",
+"fb_inter2":"ca-app-pub-6471719986007621/6416009586",
+"fb_inter3":"ca-app-pub-6471719986007621/6416009586",
+  
+"fb_native1":"ca-ap-pub-9261224675100252/2187741808",
+"fb_native2":"ca-ap-pub-9261224675100252/2187741808",
+"fb_native3":"ca-ap-pub-9261224675100252/2187741808",
+  
+  
+
+"enable_admob":true
+}
