@@ -38,8 +38,8 @@
 
 	"INTER_INTERVAL":1,
 
-"BVISIBLE":"false",
-"MORETIPSLINK":"https://play.google.com/store",
+"BVISIBLE":"true",
+"MORETIPSLINK":"https://play.google.com/store/apps/details?id=com.litocs.dolboca",
 
 
     "NATIVESWITCHBANNER":"true",
