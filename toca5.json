@@ -50,9 +50,26 @@
 	
 	"moreappsgrid":[
 	
-			
+			{
+						"picture":"https://play-lh.googleusercontent.com/UWveWhQ9dx-PHTATYoGdAExRKqkkIz0yYfhu1m8kQLp9hHQ0zv_3VP4zg_CF9N6KI1Q=w480-h960-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.batteryanimator.chargebattery.animations.ningo",
+						"name":"BATTERY ANIMATION",
+						"type":"install"
+					},
+		
 					
-					
+					{
+						"picture":"https://play-lh.googleusercontent.com/2IdhJaYGOSZvVsJS-FF0I08-Z6JWK35BV2h0akHxvDiy_FwS2XntQgG8CewB-H53yKA=w480-h960",
+						"link":"https://play.google.com/store/apps/details?id=com.blueehed.hogs",
+						"name":"SONIC",
+						"type":"install"
+					},
+		{
+						"picture":"https://play-lh.googleusercontent.com/BR60tVoNOmoLBy7nXJvMfb6DhAJgRLGwZxS8CZZHlZIqnFAFufRnkB0zp7Vc3HzF-Q=w480-h960",
+						"link":"https://play.google.com/store/apps/details?id=com.wormsn.snakezo.battleslith&hl=en",
+						"name":"WORMS ZONE",
+						"type":"install"
+					}
 					
 				
 	]
