@@ -20,11 +20,11 @@
       "ad_native_id3": "ca-ap-pub-3940256099942544/2247696110",
       
       
-      "fb_banner_id1": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "fb_banner_id2": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "fb_banner_id3": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "fb_banner_id1": "*IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "fb_banner_id2": "*IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "fb_banner_id3": "*IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
       
-      "fb_banner_main": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "fb_banner_main": "*IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
       
       "block_url":"false",
       "app_url":"https://www.ebay.fr",
@@ -33,13 +33,13 @@
       
       
       
-      "fb_interstitial_id1": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "fb_interstitial_id2": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "fb_interstitial_id3": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "fb_interstitial_id1": "*IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "fb_interstitial_id2": "*IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "fb_interstitial_id3": "*IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
       
-      "fb_native_id1": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "fb_native_id2": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "fb_native_id3": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+      "fb_native_id1": "*IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "fb_native_id2": "*IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "fb_native_id3": "*IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
     }
   ]
 }
