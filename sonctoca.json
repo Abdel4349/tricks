@@ -1,0 +1,43 @@
+{
+"version": "0",
+
+	
+	"ironKey": "0000000",
+	"ironbanner": "0000000",
+	"ironinter": "0000000",
+	"ironreward": "0000000",
+
+	"admobBanner": "ca-ap-pub-9261224675100252/1315860876",
+	"admobInter": "ca-ap-pub-9261224675100252/3500823476",
+	"admobReward": "ca-ap-pub-3288175389333718/8896158649",
+	
+	"applovinsdk": "_ZOFPlEmJd_65TzkDBMZ6HMfhycXUvOeKNxrL_DSG3QVcVkeQ6DpTf611foRfaWiKwqq8PTTkF1JBP7bwq9MDd",
+	"applovinbanner": "265f5d3bfb6d275aaa",
+	"applovininter": "5582e02fce4152d9a",
+	"applovinreward": "2247d57f54042c744a",
+
+	"unityid": "",
+	"unitybanner": "Banner_Android",
+	"unityinter": "Interstitial_Android",
+	"unityreward": "Rewarded_Android",
+
+	"fanbanner": "1251142005630495__1258544641556898",
+	"faninter": "1251142005630495__1259756221435740",
+	"fanreward": "1251142005630495__1260411798036849",
+
+
+	"LienRateUsdetail": "taht dir lien rateus",
+
+	"LienRateUs": "https://www.youtube.com/",
+	
+	"RateUsPopdetail": "taht dir 1 bach tbayan rate ola 0 bach disactivé",
+
+	"RateUsPop": "0",
+	
+	
+	
+
+	
+
+
+}
