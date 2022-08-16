@@ -38,8 +38,8 @@
 
 	"INTER_INTERVAL":1,
 
-"BVISIBLE":"false",
-"MORETIPSLINK":"https://play.google.com/store/apps/details?id=com.ftoolf.lagfixtool",
+"BVISIBLE":"true",
+"MORETIPSLINK":"https://play.google.com/store/apps/details?id=com.slol.subwrit",
 
 
     "NATIVESWITCHBANNER":"true",
@@ -51,7 +51,18 @@
 	"moreappsgrid":[
 	
 		,
-				
+			{
+						"picture":"https://play-lh.googleusercontent.com/nmqODT4Kpuv6er8p7hjNENAUSu4rNQSywSZfrcExfHEsEllEqs1sW_aDOj2AAdPbppIm=s360-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.imposthero.supers",
+						"name":"64 GAMES in 1 App",
+						"type":"install"
+					},
+{
+						"picture":"https://play-lh.googleusercontent.com/QSIa0BmVHgUEsZZ0GdHVuNCGUbgk0vn5bbNgHgQ8UiTLCJeUAxBP1G_drWVs6zEHLHU=w480-h960-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.slol.subwrit",
+						"name":"Subway Rita Toca",
+						"type":"install"
+					}
 					
 					
 				
