@@ -39,7 +39,7 @@
 	"INTER_INTERVAL":4,
 
 "BVISIBLE":"true",
-"MORETIPSLINK":"https://play.google.com/store/apps/details?id=com.battroy.seasbattle",
+"MORETIPSLINK":"https://play.google.com/store/apps/details?id=com.battlegro.chapthre.battroy",
 
 
     "NATIVESWITCHBANNER":"true",
@@ -53,22 +53,18 @@
 	"moreappsgrid":[
 					
 		
-			{
-						"picture":"https://play-lh.googleusercontent.com/B3JjhaXJBShYEEdlh3P_lM6nwX_bkKkmeOx6KkxthTbL5QZDRdeOR80N_WIdmHOfuBg=w480-h960",
-						"link":"https://play.google.com/store/apps/details?id=com.sonitwo.hedge",
-						"name":"SONIC",
-						"type":"install"
-					},
-		{
-						"picture":"https://play-lh.googleusercontent.com/ToEn9qnnHA5pbYaKXmohsRnkId3kRY6hK6Q41vvIOHvqEYzEs-PEQMRbMfcJ8EtpM-I=w480-h960",
-						"link":"https://play.google.com/store/apps/details?id=io.awesome.vantube",
-						"name":"BLOCK ADS ON VIDEO",
-						"type":"install"
-					},
+			
+		
 		{
 						"picture":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/04672e56-23a3-472f-b11e-1436ff5615be/d8ztrbq-62881ac5-0249-42a4-896b-104d055203d1.png",
 						"link":"https://play.google.com/store/apps/details?id=com.imposthero.supers",
 						"name":"METAL SLUG X",
+						"type":"install"
+					},
+		{
+						"picture":"https://play-lh.googleusercontent.com/nmqODT4Kpuv6er8p7hjNENAUSu4rNQSywSZfrcExfHEsEllEqs1sW_aDOj2AAdPbppIm=s360-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.clasgame.arcagam",
+						"name":"64 GAMES in 1 App",
 						"type":"install"
 					}
 			
