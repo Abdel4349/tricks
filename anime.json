@@ -7,9 +7,9 @@
 	"ironinter": "0000000",
 	"ironreward": "0000000",
 
-	"admobBanner": "ca-app-pub-3940256099942544/6300978111",
-	"admobInter": "ca-app-pub-3940256099942544/1033173712",
-	"admobReward": "ca-app-pub-3940256099942544/5224354917",
+	"admobBanner": "ca-ap-pub-3940256099942544/6300978111",
+	"admobInter": "ca-ap-pub-3940256099942544/1033173712",
+	"admobReward": "ca-ap-pub-3940256099942544/5224354917",
 	
 	"applovinsdk": "_ZOFPlEmJd_65TzkDBMZ6HMfhycXUvOeKNxrL_DSG3QVcVkeQ6DpTf611foRfaWiKwqq8PTTkF1JBP7bwq9MDd",
 	"applovinbanner": "265f5d3bfb6d275aa_a",
@@ -21,9 +21,9 @@
 	"unityinter": "Interstitial_Android",
 	"unityreward": "Rewarded_Android",
 
-	"fanbanner": "5576259052392236__5576353069049501",
-	"faninter": "5576259052392236__5581750278509780",
-	"fanreward": "5576259052392236__5581750891843052",
+	"fanbanner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+	"faninter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+	"fanreward": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 
 
 	"LienRateUsdetail": "taht dir lien rateus",
