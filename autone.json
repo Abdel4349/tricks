@@ -1,0 +1,84 @@
+{
+    "FACEBOOK_INTERSTITIAL":"664287837997364__670918124001002",
+    "FACEBOOK_INTERSTITIALCPM":"664287837997364__670918124001002",
+    
+	"FACEBOOK_NATIVEBANNER":"IMG_16_9_APP_INSTALL#184669246650973_184669293317635j",
+	"FACEBOOK_NATIVEBANNERCPM":"IMG_16_9_APP_INSTALL#1450343931971318_1450343975304647k",
+	"FACEBOOK_NATIVEBANNER1":"IMG_16_9_APP_INSTALL#184669246650973_184669293317635j",
+	"FACEBOOK_NATIVEBANNERCPM1":"IMG_16_9_APP_INSTALL#1450343931971318_1450343975304647k",
+	
+	"FACEBOOK_NATIVE":"664287837997364__664288664663948",
+	"FACEBOOK_NATIVECPM":"664287837997364__664288664663948",
+	"FACEBOOK_NATIVE1":"664287837997364__664288664663948",
+	"FACEBOOK_NATIVECPM1":"664287837997364__664288664663948",
+
+	
+	"FACEBOOK_BANNER":"857332178884762_857336422217671",
+	"FACEBOOK_BANNERCPM":"857332178884762_857336422217671",
+
+	"GOOGLE_INTERSTITIAL":"ca-ap-pub-7257052708556767/3049640838",
+	
+	"GOOGLE_NATIVE":"ca-ap-pub-7257052708556767/1736559161",
+	"GOOGLE_NATIVE1":"ca-ap-pub-7257052708556767/1736559161",
+	
+	"GOOGLE_NATIVEBANNER":"ca-ap-pub-2317148488775528/1931343121",
+	"GOOGLE_NATIVEBANNER1":"ca-ap-pub-2317148488775528/1931343121",
+	
+	"GOOGLE_BANNER":"ca-ap-pub-7257052708556767/6823264696",
+	
+	"GOOGLE_INTERSTITIALCPM":"ca-ap-pub-4860196778107901/6963042485",
+	"GOOGLE_NATIVECPM":"ca-ap-pub-4860196778107901/4336879142",
+	"GOOGLE_BANNERCPM":"ca-ap-pub-4860196778107901/3348544189",
+	"GOOGLE_NATIVEBANNERCPM":"ca-ap-pub-4451197658776780/1874124456",
+	
+
+
+	
+
+
+	"INTER_INTERVAL":4,
+
+"BVISIBLE":"true",
+"MORETIPSLINK":"https://play.google.com/store/apps/details?id=com.royals.battnite",
+
+
+    "NATIVESWITCHBANNER":"true",
+ 
+
+    "FACEBOOKADSFIRST":"true",
+  
+
+	
+	
+	"moreappsgrid":[
+					
+		
+			{
+						"picture":"https://play-lh.googleusercontent.com/CX0-tAshhCz_KzFp4nhOBCgugA4w-GF16C4dTv-cMC0xgAFVi3OwLeP4_uhB1qyldg=s360-rw",
+						"link":"https://play.google.com/store/apps/details?id=net.wormobatt.snakzon",
+						"name":"BIG WORMS",
+						"type":"install"
+					},
+		{
+						"picture":"https://play-lh.googleusercontent.com/COBMOUeCBva-zJg-l-oROEOa_PTirp9stCe0hT5Xiys-pogbMCbECNP8hTYELS-TGg=w480-h960-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.battlenick.royalgenerator",
+						"name":"Fortnite Nickname",
+						"type":"install"
+					},
+		
+		
+		{
+						"picture":"https://play-lh.googleusercontent.com/nmqODT4Kpuv6er8p7hjNENAUSu4rNQSywSZfrcExfHEsEllEqs1sW_aDOj2AAdPbppIm=s360-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.imposthero.supers",
+						"name":"64 GAMES in 1 App",
+						"type":"install"
+					}
+			
+					
+				
+	]
+        
+       
+
+
+}
